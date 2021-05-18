@@ -1,0 +1,20 @@
+body{
+    background-color: darkcyan;
+    padding: 3%;
+    color: whitesmoke;
+}
+.red{
+    background-color:red;
+    padding: 3%;
+}
+.blue{
+    background-color: blue;
+    padding: 3%;
+}
+.white{
+    background-color: whitesmoke;
+    color: black;
+}
+.cayan{
+    background-color: darkcyan;
+}
